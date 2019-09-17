@@ -1,6 +1,8 @@
 package com.huxiaotian.pojo;
 
-public class HxtRoom {
+import java.io.Serializable;
+
+public class HxtRoom implements Serializable {
     private String roomId;
 
     private String roomType;

@@ -1,6 +1,8 @@
 package com.huxiaotian.pojo;
 
-public class HxtAdmin {
+import java.io.Serializable;
+
+public class HxtAdmin implements Serializable {
     private String username;
 
     private String password;

@@ -10,6 +10,12 @@
     <modules>
         <module>huxiaotian-pojo</module>
         <module>huxiaotian-dao</module>
+        <module>huxiaotian-common</module>
+        <module>huxiaotian-user-interface</module>
+        <module>huxiaotian-user-service</module>
+        <module>huxiaotian-user-web</module>
+        <module>huxiaotian-room-interface</module>
+        <module>huxiaotian-room-service</module>
     </modules>
     <packaging>pom</packaging>
     <!-- 集中定义依赖版本号 -->
